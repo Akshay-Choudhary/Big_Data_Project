@@ -1,6 +1,6 @@
 # Big_Data_Project
 
-#Chicago Crime Dataset
+Chicago Crime Dataset
 
 Repository includes all the analysis that I have done on the Chicago Crime Dataset using Big Data technologies like Hadoop, Map Reduce, Hbase, Hive.
 
